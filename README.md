@@ -10,5 +10,17 @@ Database of Faces contains 400 images .
 
 
 ### Tools:
-* Libraries : Pandas , NumPy , Matplotlib ,seaborn ,Scikit-learn, facerecognition, plotly , tensorflow , keras .
-* Technologys: Jupyter notebook to execute the code. 
+
+* Libraries : 
+- Pandas
+- NumPy
+- Matplotlib
+- seaborn 
+- Scikit-learn
+- facerecognition
+- plotly 
+- tensorflow
+- keras 
+
+* Technologys: 
+- Jupyter notebook to execute the code. 
