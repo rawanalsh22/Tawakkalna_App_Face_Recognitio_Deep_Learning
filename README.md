@@ -3,7 +3,7 @@
 
 
 ## Motion graphic video explaining the problem statement
-[![Img Alt Text](https://user-images.githubusercontent.com/93244403/150766062-e1d1b1eb-58ca-4901-87de-e7b4b71abb91.png)](https://youtu.be/6R8ChxJuhqk)
+[![Img Alt Text](https://user-images.githubusercontent.com/93244403/150767536-6080872b-aca7-4531-a058-522cf738b055.jpeg)](https://youtu.be/6R8ChxJuhqk)
 
 ### Objective:
 Tawakkalna App was developed by the Saudi Data and Artificial Intelligence Authority (SDAIA) to assist the government in combating Covid-19.
