@@ -33,3 +33,6 @@ Each image has the same background and size, These images will be our main metho
 
 * Technologys: 
      >- Jupyter notebook to execute the code. 
+
+
+## You Can Look at the Presentation in [Pptx](https://drive.google.com/file/d/1NZD4dMYUVGLKL3DRCS1viZgCnnjABtIQ/view?usp=sharing) .
